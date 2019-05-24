@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{150:function(t,e,n){"use strict";n.r(e);var c={},r=n(22),component=Object(r.a)(c,function(){this.$createElement;this._self._c;return this._m(0)},[function(){var t=this.$createElement,e=this._self._c||t;return e("div",[e("h1",[this._v("Hey I am a 404")])])}],!1,null,"79268f41",null);e.default=component.exports}}]);
